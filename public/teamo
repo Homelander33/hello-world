@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SHX9C94KY1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SHX9C94KY1');
+</script>
+    <title>Te amo</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="stylesheets/style.css">
+  </head>
+
+  <body>
+    <div>
+      <img src=Dark-Netflix-Paradise-burnt-Adam-and-Eve-painting.jpg alt>
+      <div class="container">
+        <img src="img_snow.jpg" alt="Snow">
+        <h1> <!-- </h1>
+        <!-- hey there, I just wondered wheather you would check this out -->
+      </div>
+    </div>
+      <h1>Hi M<h2>
+  </body>
+
+</html>
